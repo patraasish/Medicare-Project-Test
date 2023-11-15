@@ -1,0 +1,8 @@
+<suite name="MedicareTest">
+	<test name="medicare001">
+		<classes>
+			<class name="com.medicare.testpages.MedicarePageTest">
+			</class>
+		</classes>
+	</test>
+</suite>
